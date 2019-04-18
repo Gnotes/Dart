@@ -11,6 +11,7 @@
 - [函数](./functions.md)
 - [类型检测](./type-test.md)
 - [特殊语法操作符](./operators.md)
+- [类与构造](./class-constructor.md)
 
 ## 参考文档
 
