@@ -7,6 +7,8 @@
 [Dart 语法预览](http://dart.goodev.org/guides/language/language-tour)  
 - [重要概念](./important-concepts.md)
 - [变量](./variables.md)
+- [数据类型](./types.md)
+- [函数](./functions.md)
 
 ## 参考文档
 
