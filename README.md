@@ -10,6 +10,7 @@
 - [数据类型](./types.md)
 - [函数](./functions.md)
 - [类型检测](./type-test.md)
+- [特殊语法操作符](./operators.md)
 
 ## 参考文档
 
