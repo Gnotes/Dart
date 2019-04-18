@@ -6,6 +6,7 @@
 
 [Dart 语法预览](http://dart.goodev.org/guides/language/language-tour)  
 - [重要概念](./important-concepts.md)
+- [变量](./variables.md)
 
 ## 参考文档
 
