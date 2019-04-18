@@ -9,6 +9,7 @@
 - [变量](./variables.md)
 - [数据类型](./types.md)
 - [函数](./functions.md)
+- [类型检测](./type-test.md)
 
 ## 参考文档
 
