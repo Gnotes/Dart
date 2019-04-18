@@ -13,8 +13,10 @@ var name = "Dart";
     int lineCount;
     assert(lineCount == null);
     ```
-- 可选类型：变量类型都是可选的，如果使用 _`var` 声明的变量可以 `类型推断`_
+- 可选类型：变量类型都是可选的，如果使用 _`var` 声明的变量可以 `类型推断`_，因此也不能和类型同时使用
     ```dart
+    // var String gender = ""; // 错误 ❌
+
     String name = "Dart";   // 指定类型为字符串
     var fullName = "Dart";  // 推断为字符串
     fullName = 10;          // 错误 ❌ 不能赋值其他类型
