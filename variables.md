@@ -49,3 +49,8 @@ var name = "Dart";
         arr1.add(2);
         arr2.add(2); // 错误 ❌ 不能修改 const 声明的值
         ```
+
+## 参考
+
+- [Dart语言简介](https://book.flutterchina.club/chapter1/dart.html)
+- [Difference between “var” and “dynamic” type in Dart?](https://stackoverflow.com/questions/12416507/difference-between-var-and-dynamic-type-in-dart)
