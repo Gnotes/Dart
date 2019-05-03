@@ -1,4 +1,7 @@
 # 类与构造
+
+> 在 **Dart2** 中 关键字 `new` 是可选的.
+
 ```dart
 class Point {
   num x; // 声明x并初始化为 null
